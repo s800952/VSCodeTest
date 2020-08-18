@@ -1,0 +1,2 @@
+msg = ('Benny')
+print(msg)
